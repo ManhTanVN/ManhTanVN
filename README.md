@@ -5,10 +5,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ManhTanVN/ManhTanVN"/> 
+<!--  <img src="https://badges.pufler.dev/visits/ManhTanVN/ManhTanVN"/>  -->
  <!-- <img src="https://badges.pufler.dev/years/ManhTanVN"/> -->
- <img src="https://badges.pufler.dev/repos/ManhTanVN"/>
- <img src="https://badges.pufler.dev/commits/monthly/ManhTanVN" />
+<!--  <img src="https://badges.pufler.dev/repos/ManhTanVN"/> -->
+<!--  <img src="https://badges.pufler.dev/commits/monthly/ManhTanVN" /> -->
 
 </p>
 
@@ -56,7 +56,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical"> -->
 </p> 
 
 <!--
