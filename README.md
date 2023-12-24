@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-     I am web developer with a working proficiency in HTML,  CSS, Javascript. I am also very comfortable working with SCSS/SASS preprocessor and have fundamental understanding of ReactJS, JQuery, Bootstrap, Git.
+     I am a fullstack developer with a working proficiency in HTML,  CSS, Javascript, NodeJS, Express, MySql, GIT. I am also very comfortable working with SCSS/SASS preprocessor and have fundamental understanding of ReactJS, JQuery, Bootstrap, Tailwind CSS.
     I would love to work with a team that is truly passionate about what they create and is striving to consistently move forward.
    My goal is to continuously grow as a developer while staying current with the latest trends and technologies.
 </p>  
